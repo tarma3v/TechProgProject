@@ -1,0 +1,4 @@
+/home/shatar/Загрузки/clion-2021.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/shatar/CLionProjects/contests/TP_Project
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/shatar/CLionProjects/contests/TP_Project/cmake-build-debug
