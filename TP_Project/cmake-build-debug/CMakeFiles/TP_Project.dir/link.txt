@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/TP_Project.dir/Scale.cpp.o CMakeFiles/TP_Project.dir/Card.cpp.o CMakeFiles/TP_Project.dir/State.cpp.o CMakeFiles/TP_Project.dir/Controller.cpp.o -o TP_Project 
